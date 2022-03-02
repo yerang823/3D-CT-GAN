@@ -1,4 +1,4 @@
-# Result : Generated 3D nodules
+## Result : Generated 3D nodules
 <p align="center">
     <img src="https://user-images.githubusercontent.com/97432613/156343946-b1611abf-d825-4aa2-ae3d-ed7b0430c6e2.png"  width="70%" height="70%"/>
 </p>
@@ -19,12 +19,12 @@
 </p>
 
 
-# 3D CT-GAN flow
+## 3D CT-GAN workflow
 <p align="center">
     <img src="https://user-images.githubusercontent.com/97432613/156343973-9eadbc02-f562-4879-9715-baaf054fae41.png" width="150%" height="150%"/>
 </p>
 
-# Training nodule data
+## Sample nodule data for training
 <p align="center">
     <img src="https://user-images.githubusercontent.com/97432613/156348028-0f819231-b18b-4f74-a9d5-296875a745f7.png" width="70%" height="70%"/>
 </p>
