@@ -21,7 +21,12 @@
 
 # 3D CT-GAN flow
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/97432613/156343973-9eadbc02-f562-4879-9715-baaf054fae41.png" width="200%" height="200%"/>
+    <img src="https://user-images.githubusercontent.com/97432613/156343973-9eadbc02-f562-4879-9715-baaf054fae41.png" width="150%" height="150%"/>
+</p>
+
+# Training nodule data
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/97432613/156348028-0f819231-b18b-4f74-a9d5-296875a745f7.png" width="70%" height="70%"/>
 </p>
 
 # 1. data preprocessing
