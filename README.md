@@ -26,6 +26,9 @@
     <img src="https://user-images.githubusercontent.com/97432613/156490631-c6bea476-d691-4350-8c4c-ad343677d7ba.png" width="150%" height="150%"/>
 </p>
 
+## cGAN-based inpainting GAN
+![image](https://user-images.githubusercontent.com/97432613/156501931-c1a16b93-2c31-43f1-a203-06f761a51df7.png)
+
 ## Sample nodule data for training
 <p align="center">
     <img src="https://user-images.githubusercontent.com/97432613/156348028-0f819231-b18b-4f74-a9d5-296875a745f7.png" width="70%" height="70%"/>
