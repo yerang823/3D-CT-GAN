@@ -23,7 +23,7 @@
 
 ## 3D CT-GAN workflow
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/97432613/156343973-9eadbc02-f562-4879-9715-baaf054fae41.png" width="150%" height="150%"/>
+    <img src="https://user-images.githubusercontent.com/97432613/156490631-c6bea476-d691-4350-8c4c-ad343677d7ba.png" width="150%" height="150%"/>
 </p>
 
 ## Sample nodule data for training
